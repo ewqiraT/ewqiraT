@@ -1,4 +1,4 @@
-- 👋 Hi, I’m name = @ewqiraT print(name[::-1])
+- 👋 Hi, I’m Tarik
 - 👀 I’m interested in Snakes
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nobody
